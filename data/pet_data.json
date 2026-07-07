@@ -1,0 +1,109 @@
+{
+  "dogs": {
+    "Rottweiler": {
+      "feeding": [
+        "Provide a high‑protein diet to support muscle mass.",
+        "Avoid overfeeding — Rottweilers gain weight easily.",
+        "Include joint‑support supplements like glucosamine."
+      ],
+      "grooming": [
+        "Brush the short coat weekly.",
+        "Check ears and paws regularly.",
+        "Monitor for skin sensitivity."
+      ],
+      "activity": [
+        "Provide long walks or structured exercise.",
+        "Include obedience or protection training.",
+        "Offer mental stimulation toys."
+      ]
+    },
+    "Beagle": {
+      "feeding": [
+        "Use controlled portions — Beagles overeat easily.",
+        "Include high‑fiber snacks.",
+        "Avoid fatty foods."
+      ],
+      "grooming": [
+        "Brush weekly.",
+        "Check ears — Beagles are prone to infections.",
+        "Trim nails regularly."
+      ],
+      "activity": [
+        "Provide sniffing games.",
+        "Take daily walks.",
+        "Offer puzzle toys."
+      ]
+    },
+    "Husky": {
+      "feeding": [
+        "Provide a balanced diet with moderate protein.",
+        "Avoid overfeeding — Huskies self‑regulate.",
+        "Ensure hydration after exercise."
+      ],
+      "grooming": [
+        "Brush daily during shedding season.",
+        "Check undercoat for matting.",
+        "Use de‑shedding tools."
+      ],
+      "activity": [
+        "Provide long runs or vigorous exercise.",
+        "Offer pulling or sled‑style activities.",
+        "Include mental challenges."
+      ]
+    }
+  },
+
+  "cats": {
+    "Persian": {
+      "feeding": [
+        "Provide high‑quality protein.",
+        "Include omega‑3 supplements.",
+        "Monitor for weight gain."
+      ],
+      "grooming": [
+        "Brush daily to prevent matting.",
+        "Clean eyes regularly.",
+        "Check for skin sensitivity."
+      ],
+      "activity": [
+        "Offer gentle play sessions.",
+        "Provide cozy resting spots.",
+        "Use slow wand toys."
+      ]
+    },
+    "Maine Coon": {
+      "feeding": [
+        "Provide high‑protein meals.",
+        "Ensure hydration — they love water.",
+        "Include joint‑support supplements."
+      ],
+      "grooming": [
+        "Brush long fur daily.",
+        "Check for tangles behind ears.",
+        "Trim nails regularly."
+      ],
+      "activity": [
+        "Offer climbing structures.",
+        "Provide interactive toys.",
+        "Include fetch‑style games."
+      ]
+    },
+    "Sphynx": {
+      "feeding": [
+        "Provide higher‑calorie meals.",
+        "Include skin‑support nutrients.",
+        "Offer frequent small meals."
+      ],
+      "grooming": [
+        "Bathe weekly to remove oils.",
+        "Moisturize skin gently.",
+        "Clean ears regularly."
+      ],
+      "activity": [
+        "Offer warm resting spots.",
+        "Provide gentle play.",
+        "Use soft toys."
+      ]
+    }
+  }
+}
