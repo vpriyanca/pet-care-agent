@@ -14,10 +14,10 @@ JSON‑driven data for pet profiles and breed‑specific care
 
 🧠 Architecture Overview
 The Pet Care Agent uses a multi‑agent design:
-PetCareAgent — feeding & grooming
-PetMoodAgent — mood detection
-PetActivityAgent — play sessions
-PetSessionAgent — orchestrates all agents
+-PetCareAgent — feeding & grooming
+-PetMoodAgent — mood detection
+-PetActivityAgent — play sessions
+-PetSessionAgent — orchestrates all agents
 
 Tools used:
 TextToSpeechTool — macOS voice output
