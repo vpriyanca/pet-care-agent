@@ -60,6 +60,8 @@ pet-care-agent/
 │   ├── pet_care_agent.py
 │   ├── pet_mood_agent.py
 │   ├── pet_activity_agent.py
+│   ├── pet_health_agent.py
+│   ├── pet_profile.py
 │   └── pet_session_agent.py
 │
 ├── cli/
